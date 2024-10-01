@@ -12,6 +12,7 @@ color: #DDDDDD;}
 .vall {background-color: rgb(0, 0, 0);
     border-radius: 30px;
         color: white;}
+.size {font-size: 20px;}
 #spinner {
     opacity: 0;
     visibility: hidden;
